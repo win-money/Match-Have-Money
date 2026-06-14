@@ -50,8 +50,8 @@
           <div class="contact-direct">
             <div><span>โทรศัพท์</span><strong>08 9553 3299</strong></div>
             <div><span>Support Hotline</span><strong>08 9553 3299</strong></div>
-            <div><span>อีเมล</span><strong>ads@wimutfamily.com</strong></div>
-            <div><span>Support Email</span><strong>support@wimutfamily.com</strong></div>
+            <div><span>อีเมล</span><strong>ads@muchhavemoney.com</strong></div>
+            <div><span>Support Email</span><strong>support@muchhavemoney.com</strong></div>
           </div>
         </aside>
       </div>

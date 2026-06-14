@@ -35,7 +35,7 @@
           <h4>ติดต่อเรา</h4>
           <p class="contact-line"><span>ที่อยู่:</span> 69/303 หมู่ที่ 10 ตำบลบางเลน อำเภอบางใหญ่ จ.นนทบุรี 11140</p>
           <p class="contact-line"><span>โทรศัพท์:</span> 08 9553 3299</p>
-          <p class="contact-line"><span>จดหมาย:</span> ads@wimutfamily.com</p>
+          <p class="contact-line"><span>จดหมาย:</span> ads@muchhavemoney.com</p>
         </div>
 
         <div class="footer-col">
@@ -43,7 +43,7 @@
           <p class="support-label">Support Hotline</p>
           <p class="support-value">08 9553 3299</p>
           <p class="support-label">Support Email</p>
-          <p class="support-value">support@wimutfamily.com</p>
+          <p class="support-value">support@muchhavemoney.com</p>
           <div class="socials">
             <a href="#" aria-label="facebook">f</a>
             <a href="#" aria-label="line">L</a>

@@ -6,7 +6,7 @@
         <div class="hero-copy">
           <span class="eyebrow">MUCH HAVE MONEY COMPANY LIMITED</span>
           <h1>ความเชี่ยวชาญทางการเงิน<br /><span class="accent">ความไว้วางใจมาก่อน</span></h1>
-          <p class="hero-sub">ความเชี่ยวชาญทางการเงิน · Supreme Trust · Khwām cheī̀ywchāỵ thāngkārngein</p>
+          <p class="hero-sub">ความเชี่ยวชาญทางการเงิน</p>
           <div class="hero-actions">
             <router-link to="/categories" class="btn btn-primary">หน้าต่อไป →</router-link>
             <router-link to="/contact" class="btn btn-ghost">ติดต่อเรา</router-link>
